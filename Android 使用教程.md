@@ -1,7 +1,7 @@
 ###  Android 使用教程
 1. 
 * 下载并安装 Clash for Android 客户端。
-<src= https://github.com/tianlucloud/usage/releases/download/Clash.for.Android.apk/Clash.for.Android.apk
+ https://github.com/tianlucloud/usage/releases/download/download/Clash.for.Android.apk
 
 <img width="953" height="454" alt="windows-cfw-1" src="https://github.com/user-attachments/assets/3e658c6c-7f75-46dc-b28b-099d2d913ca4" />
 
