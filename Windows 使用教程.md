@@ -1,6 +1,7 @@
 ### Windows 使用教程
 1. 
 * 下载 Clash for Windows 客户端。
+<src = https://github.com/tianlucloud/usage/releases/download/Clash.for.Android.apk/Clash.for.Windows.exe
 
 安装时请选择 为使用这台电脑的任何人安装（所有用户）
 运行时请右键，以管理员身份运行
