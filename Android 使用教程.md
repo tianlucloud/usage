@@ -15,6 +15,8 @@
 
 <img width="455" height="392" alt="屏幕截图 2026-02-02 015539" src="https://github.com/user-attachments/assets/1043bb25-3f4f-4619-9d7e-fa36f27a243a" />
 
+将订阅地址粘到APP里
+
 3.
 会到主界面，点击顶部灰色卡片，卡片颜色变成蓝色即代表代理已开启。开启后，可在第二个卡片 Proxy 里切换节点。
 ![android-clash-2](https://github.com/user-attachments/assets/2b9164a6-7ef6-4f80-b1f5-ddbb07a4373b)
