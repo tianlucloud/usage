@@ -15,6 +15,7 @@
 
 <img width="455" height="392" alt="屏幕截图 2026-02-02 015539" src="https://github.com/user-attachments/assets/1043bb25-3f4f-4619-9d7e-fa36f27a243a" />
 
+
 将订阅地址粘到APP里
 
 3.
