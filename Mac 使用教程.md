@@ -1,6 +1,7 @@
 ### Mac 使用教程
 1.
 *  下载 ClashX 客户端，安装后运行 ClashX。
+  https://github.com/tianlucloud/usage/releases/download/download/ClashX.dmg
 <img width="953" height="454" alt="mac-clashx-1" src="https://github.com/user-attachments/assets/b9dc5139-2cc6-49cc-bc4e-fb4b39a16dcf" />
 
 2. 
