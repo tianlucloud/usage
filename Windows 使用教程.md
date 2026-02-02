@@ -1,28 +1,28 @@
 ### Windows 使用教程
 1. 
-下载 Clash for Windows 客户端。
+* 下载 Clash for Windows 客户端。
 
 安装时请选择 为使用这台电脑的任何人安装（所有用户）
 运行时请右键，以管理员身份运行
 <img width="953" height="454" alt="windows-cfw-1" src="https://github.com/user-attachments/assets/3e658c6c-7f75-46dc-b28b-099d2d913ca4" />
 
 2.
-点击仪表盘
+* 点击仪表盘
 
-一键订阅
+* 一键订阅
 
 <img width="1910" height="803" alt="屏幕截图 2026-02-02 015444" src="https://github.com/user-attachments/assets/e9f44f15-cbb1-4a4d-aa7a-c155718690e1" />
 
-复制订阅地址
+* 复制订阅地址
 
 <img width="455" height="392" alt="屏幕截图 2026-02-02 015539" src="https://github.com/user-attachments/assets/1043bb25-3f4f-4619-9d7e-fa36f27a243a" />
 
-导入到clash
+* 导入到clash
 
 <img width="850" height="603" alt="windows-cfw-2" src="https://github.com/user-attachments/assets/a53771bf-607a-4801-bc0c-a2b126a99903" />
 
 4.
-打开客户端的侧边栏的 General，勾选 System Proxy 即可启用。
+* 打开客户端的侧边栏的 General，勾选 System Proxy 即可启用。
 <img width="850" height="603" alt="windows-cfw-3" src="https://github.com/user-attachments/assets/196d9341-99fe-41fd-a7a6-155405d44d89" />
 ### FAQ
 * 1.Clash for Windows 如何切换节点？
